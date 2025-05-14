@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\elect.net_snakeGame_v1.01\bin\Debug\elect.net_snakeGame_v1.01.exe.config
+C:\Users\User\source\repos\elect.net_snakeGame_v1.01\bin\Debug\elect.net_snakeGame_v1.01.exe
+C:\Users\User\source\repos\elect.net_snakeGame_v1.01\bin\Debug\elect.net_snakeGame_v1.01.pdb
+C:\Users\User\source\repos\elect.net_snakeGame_v1.01\obj\Debug\elect.net_snakeGame_v1.01.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\elect.net_snakeGame_v1.01\obj\Debug\MainWindow.baml
+C:\Users\User\source\repos\elect.net_snakeGame_v1.01\obj\Debug\MainWindow.g.cs
+C:\Users\User\source\repos\elect.net_snakeGame_v1.01\obj\Debug\App.g.cs
+C:\Users\User\source\repos\elect.net_snakeGame_v1.01\obj\Debug\elect.net_snakeGame_v1.01_MarkupCompile.cache
+C:\Users\User\source\repos\elect.net_snakeGame_v1.01\obj\Debug\elect.net_snakeGame_v1.01.g.resources
+C:\Users\User\source\repos\elect.net_snakeGame_v1.01\obj\Debug\elect.net_snakeGame_v1._01.Properties.Resources.resources
+C:\Users\User\source\repos\elect.net_snakeGame_v1.01\obj\Debug\elect.net_snakeGame_v1.01.csproj.GenerateResource.cache
+C:\Users\User\source\repos\elect.net_snakeGame_v1.01\obj\Debug\elect.net_snakeGame_v1.01.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\elect.net_snakeGame_v1.01\obj\Debug\elect.net_snakeGame_v1.01.exe
+C:\Users\User\source\repos\elect.net_snakeGame_v1.01\obj\Debug\elect.net_snakeGame_v1.01.pdb
